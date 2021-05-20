@@ -5,7 +5,7 @@ Project code for Udacity's AI Programming with Python Nanodegree program. In thi
 
 ## Architectures
 
-**Only vgg13, default is available as the architecture for now**
+vgg13, resnet18
 
 ## Train 
 
